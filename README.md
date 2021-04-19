@@ -7,4 +7,3 @@
   
  # Model Architecture
    - Pretrained ResNet50 with Imagenet weights.
-   - Pretrained InceptionV3 with Imagenet weights.
